@@ -39,4 +39,4 @@ This program, developed in the SharpDevelop environment, serves as an illustrati
 ## Visual
 ![zgw_search_log_decrypte](https://github.com/Viaszx/Mazda-SkyActiv-EngineCoolantTemp/assets/78595419/58674369-8196-411d-90b1-a3bd2e792f0b)
 
-[enet]: <http://bmwtools.info/uploads/enet_doku.pdf> "Пример Title"
+[enet]: <http://bmwtools.info/uploads/enet_doku.pdf> "Guide"
