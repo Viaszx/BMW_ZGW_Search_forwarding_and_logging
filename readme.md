@@ -26,7 +26,7 @@ You can install **Ediabas** from the BWM standard tools.
 Ediabas already includes a tool called `ZGW_SEARCH.exe` which is located at `x:\EDIABAS\Hardware\ENET`,  
 but this program only send request to the `169.254.x.x` (Link-Local Address range).
 
-# Program
+## Program
 
 This program, developed in the SharpDevelop environment, serves as an illustrative example showcasing various capabilities, including TCP/IP networking, multitasking, and asynchronous operations, as well as encryption using cryptography.
 
